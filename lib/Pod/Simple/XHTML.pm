@@ -863,7 +863,7 @@ site for Perl module links.
 
 =head1 AUTHOR
 
-Pod::Simpele::XHTML was created by Allison Randal <allison@perl.org>.
+Pod::Simple::XHTML was created by Allison Randal <allison@perl.org>.
 
 Pod::Simple was created by Sean M. Burke <sburke@cpan.org>.
 But don't bother him, he's retired.
